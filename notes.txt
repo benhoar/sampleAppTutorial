@@ -17,3 +17,9 @@ git config --global user.name and user.email 'ans' when setting up new repos
 files added using git add are not automatically updated, aka if you make a change and hit save, you have to re-add it
 
 git commit -m 'changed all files' upload all files with comment
+
+a .gitignore file can be added to ignore the upload of some files
+   /dir_name to exclude a directory
+
+git branch
+branches – allow you to work on the code base without affecting the host base
