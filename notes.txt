@@ -1,0 +1,17 @@
+Version control for tracking changes in computer files
+Coordinates work between multiple developers
+Who made what changes and when
+Revert back at any time
+Local and remote repos
+
+git init // initialize local git repository
+git add <file> // add files to index
+git status // check status of working tree (what is to be uploaded)
+git commit // commit changes in index
+git push // push to remote repository
+git pull // pull latest changes from remote repository
+git clone // clone repository into a new directory (download to local)
+
+git config --global user.name and user.email 'ans' when setting up new repos
+
+files added using git add are not automatically updated, aka if you make a change and hit save, you have to re-add it
