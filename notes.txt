@@ -15,3 +15,5 @@ git clone // clone repository into a new directory (download to local)
 git config --global user.name and user.email 'ans' when setting up new repos
 
 files added using git add are not automatically updated, aka if you make a change and hit save, you have to re-add it
+
+git commit -m 'changed all files' upload all files with comment
