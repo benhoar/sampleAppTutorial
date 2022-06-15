@@ -21,5 +21,9 @@ git commit -m 'changed all files' upload all files with comment
 a .gitignore file can be added to ignore the upload of some files
    /dir_name to exclude a directory
 
-git branch
+git branch // make branch
+git checkout branch // go to branch
 branches – allow you to work on the code base without affecting the host base
+
+important to commit changes before switching branches
+
